@@ -1,0 +1,4 @@
+янв. 25, 2023 3:17:49 AM Task0 main
+INFO: java.util.InputMismatchException: Value out of range. Value:"100100" Radix:10
+янв. 25, 2023 3:19:52 AM Task0 main
+INFO: java.util.InputMismatchException: Value out of range. Value:"200" Radix:10
